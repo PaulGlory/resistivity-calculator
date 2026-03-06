@@ -71,7 +71,7 @@ For a quantum-corrected treatment, see the **Sommerfeld free-electron model** in
 No external dependencies — uses only Python's standard library.
 
 ```bash
-git clone https://github.com/<your-username>/resistivity-calculator.git
+git clone https://github.com/PaulGlory/resistivity-calculator.git
 cd resistivity-calculator
 python main.py
 ```
@@ -205,7 +205,6 @@ MIT License — free to use, modify, and distribute with attribution.
 ## Author
 
 **Paul Glory**  
-B.Sc. Physics, University of Ibadan | Aspiring Computational Scientist | Python & Data Analysis  
-CEO, Glyptics World · Former VP, PCSF · Science Communicator
+B.Sc. Physics, University of Ibadan | Aspiring Computational Scientist | Python & Data Analysis
 
-[GitHub](https://github.com/<your-username>)
+[GitHub](https://github.com/PaulGlory)
