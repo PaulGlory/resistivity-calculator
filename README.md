@@ -204,7 +204,7 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## Author
 
-**Paul Glory**  
+**Paul Glory AJALA**  
 B.Sc. Physics, University of Ibadan | Aspiring Computational Scientist | Python & Data Analysis
 
 [GitHub](https://github.com/PaulGlory)
